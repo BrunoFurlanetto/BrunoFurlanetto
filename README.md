@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Bruno Furlanetto 👋
 <!-- - 🤔 I’m looking for help with ... -->
 
-- 🕛 Profissionalmente há pouco tempo na área, mas durante a faculdade trabalhei todos os anos com computação científica.
+- 🕛 Programador Jr. na área de WEB, mas durante a faculdade trabalhei todos os anos com ciência de dados, fazendo uso de fortran.
 - 🔭 Atualmente trabalho em uma aplicação WEB para uma empresa de divulgação científica no interior de São Paulo.
-- 💬 Sou bacharel em física pela UNESP.
-- ⚡ Um fato interessante sobre mim, é que durante toda a graduação trabalhei com simulações computacionais, fazendo uso de uma linguagem chamada fortran 77.
+- 💬 Bacharel em física pela UNESP.
+<!-- - ⚡ -->
 
 <div align="center">
   <a href="https://github.com/BrunoFurlanetto">
