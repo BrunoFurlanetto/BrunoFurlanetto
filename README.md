@@ -1,9 +1,9 @@
-### Olá! Eu sou o Bruno Furlanetto 👋
+### Hello! I'm Bruno Furlanetto 👋
 <!-- - 🤔 I’m looking for help with ... -->
 
-- 🕛 Programador Jr. na área de WEB, mas durante a faculdade trabalhei todos os anos com ciência de dados, fazendo uso de fortran.
-- 🔭 Atualmente trabalho em uma aplicação WEB para uma empresa de divulgação científica no interior de São Paulo.
-- 💬 Bacharel em física pela UNESP.
+- 🕛 Jr. Programmer in the WEB area, but during college I worked every year with data science, using Fortran.
+- 🔭 I currently work on a WEB application for a science communication company in the interior of São Paulo.
+- 💬 Bachelor's degree in physics from UNESP.
 <!-- - ⚡ -->
 
 <div align="center">
